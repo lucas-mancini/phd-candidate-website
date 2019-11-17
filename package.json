@@ -1,0 +1,13 @@
+{
+  "name": "phd-candidate-website",
+  "version": "1.0.0",
+  "description": "Static website for PhD Candidate Julia Maria Rubio.",
+  "main": "index.js",
+  "repository": "git@github.com:lucas-mancini/phd-candidate-website.git",
+  "author": "Lucas Mancini <mancini.lucas@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}
