@@ -10,3 +10,12 @@ header .intro-text .intro-heading-custom {
 .degree > a:hover {
   text-decoration: none;
 }
+
+li.timeline, li.timeline-inverted {
+  display: flex;
+  align-items: center;
+}
+
+li.timeline-inverted {
+  flex-direction: row-reverse;
+}
