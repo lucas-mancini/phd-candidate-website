@@ -2,3 +2,11 @@
 header .intro-text .intro-heading-custom {
   text-transform: capitalize;
 }
+
+.degree > a {
+  color: black;
+}
+
+.degree > a:hover {
+  text-decoration: none;
+}
