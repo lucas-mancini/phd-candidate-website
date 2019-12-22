@@ -19,3 +19,7 @@ li.timeline, li.timeline-inverted {
 li.timeline-inverted {
   flex-direction: row-reverse;
 }
+
+.copyright {
+  font-size: 13px;
+}
