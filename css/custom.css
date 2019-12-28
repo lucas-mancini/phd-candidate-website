@@ -27,3 +27,12 @@ li.timeline-inverted {
 .copyright {
   font-size: 13px;
 }
+
+.portfolio-caption-list-item {
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-style: italic;
+  font-size: 16px;
+  margin: 0;
+  text-align: left;
+  line-height: 1.75;
+}
