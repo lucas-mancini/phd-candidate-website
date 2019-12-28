@@ -3,6 +3,10 @@ header .intro-text .intro-heading-custom {
   text-transform: capitalize;
 }
 
+.intro-lead-in a {
+  margin: 0 20px;
+}
+
 .degree > a {
   color: black;
 }
