@@ -7,6 +7,12 @@ header .intro-text .intro-heading-custom {
   margin: 0 20px;
 }
 
+@media screen and (min-width: 769px) {
+  .about-text {
+    font-size: 16px;
+  }
+}
+
 .degree > a {
   color: black;
 }
@@ -28,11 +34,22 @@ li.timeline-inverted {
   font-size: 13px;
 }
 
-.portfolio-caption-list-item {
+.portfolio .portfolio-item .portfolio-caption > p, .portfolio-caption-list-item {
   font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-style: italic;
-  font-size: 16px;
-  margin: 0;
+  font-size: 14px;
+  font-style: normal;
+  margin: 0 0 8px;
   text-align: left;
   line-height: 1.75;
+}
+
+@media screen and (min-width: 769px) {
+  .portfolio .portfolio-item .portfolio-caption > p, .portfolio-caption-list-item {
+    font-size: 16px;
+  }
+}
+
+.portfolio .portfolio-item .portfolio-caption,
+.portfolio .portfolio-item .portfolio-link {
+  max-width: 620px;
 }
