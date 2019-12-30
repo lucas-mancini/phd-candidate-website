@@ -30,8 +30,9 @@ li.timeline-inverted {
   flex-direction: row-reverse;
 }
 
-.copyright {
-  font-size: 13px;
+.copyright-notice {
+  font-size: 14px;
+  line-height: 2;
 }
 
 .portfolio .portfolio-item .portfolio-caption > p, .portfolio-caption-list-item {
