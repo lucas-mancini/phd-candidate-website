@@ -54,3 +54,12 @@ li.timeline-inverted {
 .portfolio .portfolio-item .portfolio-link {
   max-width: 620px;
 }
+
+.email-contact {
+  display: flex;
+  direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 215px;
+  margin: 0 auto;
+}
