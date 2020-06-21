@@ -2,7 +2,7 @@
 
 Personal website for https://juliarubio.com.ar.
 
-SSL certificate generated using [SSL For Free](https://www.sslforfree.com/create?domains=juliarubio.com.ar+www.juliarubio.com.ar).
+SSL certificate generated using [SSL For Free](https://manage.sslforfree.com/). You need to create both certificates for domains: juliarubio.com.ar and www.juliarubio.com.ar.
 
 Update certificate every three months as per the steps here: https://medium.com/@channaly/how-to-host-static-website-with-https-using-amazon-s3-251434490c59.
 
